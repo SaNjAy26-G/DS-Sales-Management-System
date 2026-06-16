@@ -16,8 +16,8 @@ from mysql.connector import Error
 # ---- Default local credentials (override via secrets.toml or env vars) ----
 DEFAULTS = {
     "host": "localhost",
-    "user": "root",
-    "password": "",          # <-- put your MySQL root password here
+    "user": "sanjay",
+    "password": "Virat.18",          # <-- put your MySQL root password here
     "database": "sales_management_system",
     "port": 3306,
 }
